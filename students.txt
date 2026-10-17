@@ -1,0 +1,44 @@
+Name: Radha
+Skill: Java
+Total Topics: 10
+Completed Topics: 8
+Remaining Topics: 2
+Progress: 80.00%
+Status: In Progress
+Aptitude Completed: true
+Coding Completed: true
+Placement Status: Eligible
+------------------------------
+Name: Akshada
+Skill: Cpp
+Total Topics: 20
+Completed Topics: 10
+Remaining Topics: 10
+Progress: 50.00%
+Status: In Progress
+Aptitude Completed: true
+Coding Completed: true
+Placement Status: Not Eligible
+------------------------------
+Name: Rahul
+Skill: Java
+Total Topics: 20
+Completed Topics: 16
+Remaining Topics: 4
+Progress: 80.00%
+Status: In Progress
+Aptitude Completed: true
+Coding Completed: true
+Placement Status: Eligible
+------------------------------
+Name: Siya
+Skill: Python
+Total Topics: 20
+Completed Topics: 15
+Remaining Topics: 5
+Progress: 75.00%
+Status: In Progress
+Aptitude Completed: true
+Coding Completed: true
+Placement Status: Eligible
+------------------------------
