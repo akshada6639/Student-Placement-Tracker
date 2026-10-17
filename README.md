@@ -1,16 +1,30 @@
-# Java Learning Projects
+# Student Placement Tracker
 
-## About
-This repository contains my Java programs and practice projects.
+## About the Project
+Student Placement Tracker is a Java Swing application
+used to manage student records and placement information.
+
+## Features
+- Admin Login
+- Add Student
+- Search Student
+- View All Students
+- Update Student Details
+- Delete Student
+- Placement Report
+- Dashboard Statistics
 
 ## Technologies Used
 - Java
-- Git
-- GitHub
+- Java Swing
+- File Handling
 
-## Programs
-- Hello World
-- Basic Java Programs
+## How to Run
+1. Install Java JDK.
+2. Download the project files.
+3. Open the project folder in VS Code.
+4. Compile and run the Java program.
 
-## Goal
-I am learning Java and GitHub to prepare for software development internships.
+## Project Goal
+To make student record management and placement tracking
+simple and easy.
